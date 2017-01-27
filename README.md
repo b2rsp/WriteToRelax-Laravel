@@ -9,8 +9,12 @@ Some of my goals are with this project is
 * Reply the demo spliting the backend (API) and frontend
 * Frontend: Learn Angular JS 2
 * Frontend: Learn React
+* Frontend: Lean Vue.js 2
 * Backend: Redo the API with Go
 * Backend: Redo with MeteorJS
+* Backend: Redo with Node.jS (Sails or koa)
+* Backend: Redo with Closure
+* Backend: Redo with Erlang
 
 
 The idea of the project is quinte simple:
